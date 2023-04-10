@@ -18,7 +18,12 @@
             }
         }
        
-        
+        // Вывод нового массива строк
+        Console.WriteLine("Новый массив строк:");
+        for (int i = 0; i < j; i++)
+        {
+            Console.WriteLine(new_arr[i]);
+        }
         
     }
 }
