@@ -1,11 +1,2 @@
-class Program
-{
-    static void Main(string[] args)
-    {
-        // Ввод исходного массива строк
-        Console.Write("Введите массив строк через пробел: ");
-        string[] arr = Console.ReadLine().Split();
-
-        
-    }
-}
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
